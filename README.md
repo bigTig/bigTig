@@ -6,9 +6,9 @@
    <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p>
 </p>
 
-
-
-
+<p>
+🚀一个很菜的前端开发工程师 名称：阿峰 工作地址：广州 爱好：摸鱼、游戏、煮饭、种菜 GitHub地址: https://github.com/bigTig，欢迎Star⭐
+</p>
 
 <!--
   技术栈标签, 小标签来自: https://shields.io/
