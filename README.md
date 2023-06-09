@@ -60,7 +60,7 @@
 <a href="https://github.com/bigTig/react-taroify-ts">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bigTig&repo=react-taroify-ts&theme=dark&bg_color=121212&hide_border=true" /></a>
 
-  <br>
+ <br>
   
 <!-- GitHub 数据统计 -->
   
@@ -69,11 +69,14 @@
 ✨GitHub 数据统计
 
 <br>
-  
+ 
+![Visitor Count](https://profile-counter.glitch.me/bigTig/count.svg)
 
+ <br>
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigTig&layout=compact&card_width=700&theme=tokyonight)
 
-  <br>
+ <br>
   
 <table align="center">
   <tr>
