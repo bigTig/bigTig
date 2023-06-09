@@ -6,8 +6,17 @@
    <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p>
 </p>
 
-<p>
-🚀一个很菜的前端开发工程师 名称：阿峰 工作地址：广州 爱好：摸鱼、游戏、煮饭、种菜 GitHub地址: https://github.com/bigTig，欢迎Star⭐
+<p align="center">
+🚀一个很菜的前端开发工程师
+</p>
+<p align="center">
+名称：阿峰
+</p>
+<p align="center">
+工作地址：广州
+</p>
+<p align="center">
+爱好：摸鱼、游戏、煮饭、种菜
 </p>
 
 <!--
