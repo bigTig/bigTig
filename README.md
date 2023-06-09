@@ -6,9 +6,9 @@
    <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p>
 </p>
 
-<br>
 
-<img src="./assest/coding.gif" />
+
+
 
 <!--
   技术栈标签, 小标签来自: https://shields.io/
@@ -18,8 +18,12 @@
 <br>
 
 <div align="center">
-
 <br>
+ 
+<img src="./assest/coding.gif" />
+  
+<br>
+ <br>
 
 💪 我的技能
 
