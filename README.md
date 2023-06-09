@@ -60,16 +60,34 @@
 <a href="https://github.com/bigTig/react-taroify-ts">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bigTig&repo=react-taroify-ts&theme=dark&bg_color=121212&hide_border=true" /></a>
 
+  <br>
+  
 <!-- GitHub 数据统计 -->
+  
 <br>
 
 ✨GitHub 数据统计
 
 <br>
+  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigTig&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigTig&layout=compact&card_width=700&theme=tokyonight)
 
-![bigTig's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigTig&show_icons=true&theme=tokyonight)
+  <br>
+  
+<table align="center">
+  <tr>
+    <td align="center">
+      <div><b><em><spam>Statistics</spam></em></b></div>
+      <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
+    </td>
+    <td align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=bigTig&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
+    </td>
+  </tr>
+</table>
+  
+<!-- ![bigTig's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigTig&show_icons=true&theme=tokyonight) -->
 
 <br>
 <!-- GitHub 奖杯🏆 -->
@@ -89,19 +107,6 @@
   <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
 </picture>
   
-  <br>
-  
-<table align="center">
-  <tr>
-    <td align="center">
-      <div><b><em><spam>Statistics</spam></em></b></div>
-      <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
-    </td>
-    <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
-    </td>
-  </tr>
-</table>
 
 </div>
 
