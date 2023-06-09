@@ -45,6 +45,7 @@
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
+![Webpack Badge](https://img.shields.io/badge/Webpack-00b96b?logo=webpack&logoColor=fff&style=flat)
 
 <br>
 
@@ -65,9 +66,12 @@
 <br>
 
 <a href="https://github.com/bigTig/react-webpack-ts">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bigTig&repo=react-webpack-ts&theme=dark&bg_color=121212&hide_border=true" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bigTig&repo=react-webpack-ts&theme=cobalt&card_width=700&hide_border=true" /></a>
+
+<br>
+ 
 <a href="https://github.com/bigTig/react-taroify-ts">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bigTig&repo=react-taroify-ts&theme=dark&bg_color=121212&hide_border=true" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bigTig&repo=react-taroify-ts&theme=tokyonight&card_width=700&hide_border=true" /></a>
 
  <br>
   
@@ -118,7 +122,11 @@
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
   <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
 </picture>
+
+<br>
   
+![image](https://github.com/bigTig/bigTig/assets/80088198/d087f211-3a43-4466-8ec8-ab0cc3f30881)
+
 
 </div>
 
